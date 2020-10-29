@@ -1,5 +1,6 @@
 # ML-Project-2020
-CNN based handwritten hindi text recognition
+Convolutional Neural Network based OCR framework for handwritten Hindi and Marathi Text Recognition.
+
 
 Yash Gandhi 2K18/CO/402
 
