@@ -1,0 +1,9 @@
+https://github.com/vatch123/Hindi-Handwritten-Character-Recognition
+https://github.com/sarthaksinha31/CNN-Based-Hindi-Handwritten-Character-Recognition-and-Speech-Conversion
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1715&context=etd_projects
+https://www.researchgate.net/profile/Ambadas_Shinde2/publication/343678504_Convolutional_Neural_Network_Based_Handwritten_Marathi_Text_Recognition/links/5f3842bf92851cd302fa8db5/Convolutional-Neural-Network-Based-Handwritten-Marathi-Text-Recognition.pdf
+https://towardsdatascience.com/convolution-vs-correlation-af868b6b4fb5
+https://www.youtube.com/watch?v=0zbhg79i_Bs&list=PLdxQ7SoCLQAMeMPpRvqXJjBSmKey0SdlH&index=6&ab_channel=AhladKumar
+http://cdn.iiit.ac.in/cdn/cvit.iiit.ac.in/images/ConferencePapers/2018/offline-handwriting-recognition.pdf
+https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1715&context=etd_projects
+https://keras.io/api/preprocessing/image/
