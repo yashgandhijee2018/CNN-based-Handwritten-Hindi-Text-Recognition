@@ -1,11 +1,5 @@
-# ML-Project-2020
+# ML-Project
 ## Convolutional Neural Network based OCR framework for handwritten Hindi and Marathi Text Recognition.
-
-
-Yash Gandhi 2K18/CO/402
-
-Sambhav Jain 2K18/CO/313
-
 
 
 The dataset was too large to be included in this repository so I have saved that in my google drive:
