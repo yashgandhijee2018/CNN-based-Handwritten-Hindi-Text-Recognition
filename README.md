@@ -1,4 +1,4 @@
-# ML-Project
+# Big Data Project
 ## Convolutional Neural Network based OCR framework for handwritten Hindi and Marathi Text Recognition.
 
 
